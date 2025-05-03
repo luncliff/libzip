@@ -9,3 +9,8 @@
 /.clangd
 /compile_commands.json
 /cmake-build-debug
+
+DerivedData
+.swiftpm
+.build
+Package.resolved
